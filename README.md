@@ -1,2 +1,2 @@
-# Fujitsu
-Fujitsu Company
+# HorizonHu
+HorizonHu WebSite
